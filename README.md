@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelmelo98
 - 👀 I’m interested in work.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning TypeScript, Docker, Kubenetes, Jenkins, SpringBoot, Angular, MongoDB, Redis, Shell Linux, YML, JSON, etc..
+- 💞️ I’m looking to collaborate on..
 - 📫 How to reach me +5561981812830
 
 <!---
