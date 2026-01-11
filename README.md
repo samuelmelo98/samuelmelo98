@@ -7,13 +7,15 @@
 - https://www.stringtecnologiadf.org
 - Always ready to learn.
 - Sempre pronto para aprender.
-- Ambientes teste, produção
+- Ambientes teste,homologação, produção
 - Acesse https://grafana.cluster.stringtecnologiadf.org/login
 - https://auth.stringtecnologiadf.org/
+- samuel@stringtecnologiadf.org
 - # Cluster Kubernetes k3s
 Wireguard VPN,
 Linux,
-keycloack
+keycloack,
+cluster -> node -> namespace -> pods -app-
 <!---
 samuelmelo98/samuelmelo98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
