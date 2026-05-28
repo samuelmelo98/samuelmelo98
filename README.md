@@ -10,6 +10,7 @@
 - Ambientes teste,homologação, produção
 - Acesse https://grafana.cluster.stringtecnologiadf.org/login
 - https://auth.stringtecnologiadf.org/
+- https://argocd.cluster.stringtecnologiadf.org/
 - samuel@stringtecnologiadf.org
 - # Cluster Kubernetes k3s
 Wireguard VPN,
