@@ -11,8 +11,11 @@
 - Acesse https://grafana.cluster.stringtecnologiadf.org/login
 - https://auth.stringtecnologiadf.org/
 - https://argocd.cluster.stringtecnologiadf.org/
+- https://minio-console.cluster.stringtecnologiadf.org/login
+- https://redis.cluster.stringtecnologiadf.org/
 - samuel@stringtecnologiadf.org
 - # Cluster Kubernetes k3s
+- Ambiente criado por mim, Redis para cache, ArgoCd para deploy, Keycloak para gerenciar acessos, MinIO para arquivos e estrutura de cluster com kubernentes.
 Wireguard VPN,
 Linux,
 keycloack,
